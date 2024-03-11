@@ -37,6 +37,7 @@ export default async function CustomersTable({
                               alt={`${customer.name}'s profile picture`}
                               width={28}
                               height={28}
+                              alt={`${invoice.name}'s profile picture`}
                             />
                             <p>{customer.name}</p>
                           </div>
